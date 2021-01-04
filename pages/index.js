@@ -8,7 +8,7 @@ function HomePage() {
         <Head>
           <title>Anasayfa</title>
         </Head>
-        <h1>iNDEXTESİN</h1>
+        <h1>Ana sayfa yazısı nı degıstırdım</h1>
       </Layout>
     </>
   );
