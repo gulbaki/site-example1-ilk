@@ -2,3 +2,5 @@ npm init --y package json dosyası oluşturma, projenın icindekilerin ve kendis
 
 npm install -D prettier ->  sadece ben gelişitrme yaparken işime yarıcaık eklentilerdir projemı canlıya koydugum vakit fazla yer kaplamaması ve ihtiyac olmayan bir şey oldupu için yuk lemesın -D şeklinde yukluyorz
 zeit.co
+
+import unfetch from "isomorphic-unfetch"; client kısmında server calıstırmamızı saglıyor
